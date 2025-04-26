@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<System>
+  <Artists>
+    <Artist id="1" type="Group">
+      <Name>Metallica</Name>
+      <Country>USA</Country>
+      <Genre>Metal</Genre>
+      <YearFormed>1981</YearFormed>
+      <NumberOfMembers>9</NumberOfMembers>
+      <Albums>
+        <Album id="1">
+          <Title>Master Of Pupets</Title>
+          <ReleaseYear>1986</ReleaseYear>
+          <Price>$10.00</Price>
+        </Album>
+        <Album id="2">
+          <Title>Metallica</Title>
+          <ReleaseYear>1991</ReleaseYear>
+          <Price>$12.99</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="2" type="Group">
+      <Name>Disturbed</Name>
+      <Country>USA</Country>
+      <Genre>Metal</Genre>
+      <YearFormed>1994</YearFormed>
+      <NumberOfMembers>6</NumberOfMembers>
+      <Albums>
+        <Album id="3">
+          <Title>Believe</Title>
+          <ReleaseYear>2002</ReleaseYear>
+          <Price>$8.00</Price>
+        </Album>
+        <Album id="4">
+          <Title>Evolution</Title>
+          <ReleaseYear>2018</ReleaseYear>
+          <Price>$15.00</Price>
+        </Album>
+        <Album id="5">
+          <Title>Immortalized</Title>
+          <ReleaseYear>2015</ReleaseYear>
+          <Price>$16.00</Price>
+        </Album>
+        <Album id="6">
+          <Title>Indestructible</Title>
+          <ReleaseYear>2008</ReleaseYear>
+          <Price>$14.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="3" type="Group">
+      <Name>The Backstreet Boys</Name>
+      <Country>USA</Country>
+      <Genre>Pop</Genre>
+      <YearFormed>1993</YearFormed>
+      <NumberOfMembers>10</NumberOfMembers>
+      <Albums>
+        <Album id="7">
+          <Title>Millennium</Title>
+          <ReleaseYear>1999</ReleaseYear>
+          <Price>$9.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="4" type="Group">
+      <Name>Iron Maiden</Name>
+      <Country>UK</Country>
+      <Genre>Metal</Genre>
+      <YearFormed>1975</YearFormed>
+      <NumberOfMembers>17</NumberOfMembers>
+      <Albums>
+        <Album id="8">
+          <Title>Fear of the Dark</Title>
+          <ReleaseYear>1992</ReleaseYear>
+          <Price>$9.99</Price>
+        </Album>
+        <Album id="9">
+          <Title>Peace of Mind</Title>
+          <ReleaseYear/>
+          <Price>$5.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="5" type="Group">
+      <Name>Placebo</Name>
+      <Country>UK</Country>
+      <Genre>Alternative Rock</Genre>
+      <YearFormed>1994</YearFormed>
+      <NumberOfMembers>3</NumberOfMembers>
+      <Albums>
+        <Album id="10">
+          <Title>Sleeping with Ghosts</Title>
+          <ReleaseYear>2003</ReleaseYear>
+          <Price>$7.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="6" type="Group">
+      <Name>Coldplay</Name>
+      <Country>UK</Country>
+      <Genre>Pop</Genre>
+      <Genre>Alternative Rock</Genre>
+      <YearFormed>1996</YearFormed>
+      <NumberOfMembers>5</NumberOfMembers>
+      <Albums>
+        <Album id="11">
+          <Title>Viva la Vida or Death and all his Friends</Title>
+          <ReleaseYear>2008</ReleaseYear>
+          <Price>$8.99</Price>
+        </Album>
+        <Album id="12">
+          <Title>A Head Full of Dreams</Title>
+          <ReleaseYear>2015</ReleaseYear>
+          <Price>$16.50</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="7" type="Group">
+      <Name>Blink 182</Name>
+      <Country>USA</Country>
+      <Genre>Rock</Genre>
+      <Genre>Pop Punk</Genre>
+      <Genre>Punk Rock</Genre>
+      <YearFormed>1992</YearFormed>
+      <NumberOfMembers>12</NumberOfMembers>
+      <Albums>
+        <Album id="13">
+          <Title>Enema of the State</Title>
+          <ReleaseYear>1999</ReleaseYear>
+          <Price>$5.99</Price>
+        </Album>
+        <Album id="14">
+          <Title>Blink-182</Title>
+          <ReleaseYear>2003</ReleaseYear>
+          <Price>$17.00</Price>
+        </Album>
+        <Album id="15">
+          <Title>Nine</Title>
+          <ReleaseYear>2019</ReleaseYear>
+          <Price>$10.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="8" type="Group">
+      <Name>The Offspring</Name>
+      <Country>USA</Country>
+      <Genre>Pop Punk</Genre>
+      <Genre>Punk Rock</Genre>
+      <YearFormed>1984</YearFormed>
+      <NumberOfMembers>7</NumberOfMembers>
+      <Albums>
+        <Album id="16">
+          <Title>Smash</Title>
+          <ReleaseYear>1994</ReleaseYear>
+          <Price>$6.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="9" type="Group">
+      <Name>Simple Plan</Name>
+      <Country>Canada</Country>
+      <Genre>Pop Punk</Genre>
+      <Genre>Punk Rock</Genre>
+      <Genre>Power Pop</Genre>
+      <YearFormed>1999</YearFormed>
+      <NumberOfMembers>5</NumberOfMembers>
+      <Albums>
+        <Album id="17">
+          <Title>No Pads, No Helmets...</Title>
+          <ReleaseYear>2002</ReleaseYear>
+          <Price>$18.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="10" type="Group">
+      <Name>Bowling For Soup</Name>
+      <Country>USA</Country>
+      <Genre>Pop Punk</Genre>
+      <Genre>Punk Rock</Genre>
+      <YearFormed>1994</YearFormed>
+      <NumberOfMembers>5</NumberOfMembers>
+      <Albums>
+        <Album id="18">
+          <Title>A Hangover You Don't Deserve</Title>
+          <ReleaseYear>2004</ReleaseYear>
+          <Price>$15.00</Price>
+        </Album>
+        <Album id="19">
+          <Title>The Great Burrito Extortion Case</Title>
+          <ReleaseYear>2006</ReleaseYear>
+          <Price>$14.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="11" type="Group">
+      <Name>Linkin Park</Name>
+      <Country>USA</Country>
+      <Genre>Alternative Rock</Genre>
+      <Genre>Alternative Metal</Genre>
+      <Genre>Rap rock</Genre>
+      <YearFormed>1996</YearFormed>
+      <NumberOfMembers>9</NumberOfMembers>
+      <Albums>
+        <Album id="20">
+          <Title>Meteora</Title>
+          <ReleaseYear>2003</ReleaseYear>
+          <Price>$8.00</Price>
+        </Album>
+        <Album id="21">
+          <Title>One More Light</Title>
+          <ReleaseYear>2017</ReleaseYear>
+          <Price>$14.99</Price>
+        </Album>
+        <Album id="22">
+          <Title>Hybrid Theory</Title>
+          <ReleaseYear>2000</ReleaseYear>
+          <Price>$13.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="12" type="Group">
+      <Name>Aerosmith</Name>
+      <Country>USA</Country>
+      <Genre>Hard Rock</Genre>
+      <YearFormed>1970</YearFormed>
+      <NumberOfMembers>10</NumberOfMembers>
+      <Albums>
+        <Album id="23">
+          <Title>Aerosmith</Title>
+          <ReleaseYear>1975</ReleaseYear>
+          <Price>$10.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="13" type="Singer">
+      <Name>Eminem</Name>
+      <Country>USA</Country>
+      <Genre>Hip Hop</Genre>
+      <YearStartedPerforming>1988</YearStartedPerforming>
+      <YearOfBirth>1972</YearOfBirth>
+      <Age/>
+      <Albums>
+        <Album id="24">
+          <Title>The Slim Shady LP</Title>
+          <ReleaseYear>1999</ReleaseYear>
+          <Price>$7.00</Price>
+        </Album>
+        <Album id="25">
+          <Title>The Eminem Show</Title>
+          <ReleaseYear>2002</ReleaseYear>
+          <Price>$9.99</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="14" type="Singer">
+      <Name>2Pac</Name>
+      <Country>USA</Country>
+      <Genre>Hip Hop</Genre>
+      <YearStartedPerforming>1987</YearStartedPerforming>
+      <YearOfBirth>1971</YearOfBirth>
+      <Age/>
+      <Albums>
+        <Album id="26">
+          <Title>All Eyez on Me</Title>
+          <ReleaseYear>1996</ReleaseYear>
+          <Price>$7.00</Price>
+        </Album>
+        <Album id="27">
+          <Title>Better Dayz</Title>
+          <ReleaseYear>2002</ReleaseYear>
+          <Price>$6.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="15" type="Singer">
+      <Name>Ceca Raznatovic</Name>
+      <Country>Serbia</Country>
+      <Genre>Turbo-folk</Genre>
+      <YearStartedPerforming>1988</YearStartedPerforming>
+      <YearOfBirth/>
+      <Age/>
+      <Albums>
+        <Album id="28">
+          <Title>Poziv</Title>
+          <ReleaseYear>2013</ReleaseYear>
+          <Price>$2.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="20" type="Singer">
+      <Name>Dua Lipa</Name>
+      <Country>UK</Country>
+      <Genre>Pop</Genre>
+      <YearStartedPerforming>2015</YearStartedPerforming>
+      <YearOfBirth/>
+      <Age>24</Age>
+      <Albums>
+        <Album id="29">
+          <Title>Be the One</Title>
+          <ReleaseYear>2016</ReleaseYear>
+          <Price>$22.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="16" type="DJ">
+      <Name>Kygo</Name>
+      <Country>Norway</Country>
+      <Genre>Deep House</Genre>
+      <Genre>Progressive House</Genre>
+      <YearStartedPerforming>2009</YearStartedPerforming>
+      <NetWorth>25,000,000</NetWorth>
+      <YearOfBirth>1991</YearOfBirth>
+      <Albums>
+        <Album id="30">
+          <Title>Cloud Nine</Title>
+          <ReleaseYear>2016</ReleaseYear>
+          <Price>$11.99</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="17" type="DJ">
+      <Name>David Guetta</Name>
+      <Country>France</Country>
+      <Genre>Deep House</Genre>
+      <Genre>Progressive House</Genre>
+      <Genre>Electronic</Genre>
+      <YearStartedPerforming>1980</YearStartedPerforming>
+      <NetWorth>75,000,000</NetWorth>
+      <YearOfBirth>1967</YearOfBirth>
+      <Albums>
+        <Album id="31">
+          <Title>Nothing but the Beat</Title>
+          <ReleaseYear/>
+          <Price>$7.00</Price>
+        </Album>
+        <Album id="32">
+          <Title>One love</Title>
+          <ReleaseYear>2009</ReleaseYear>
+          <Price>$12.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="18" type="DJ">
+      <Name>Robin Schulz</Name>
+      <Country>France</Country>
+      <Genre>Deep House</Genre>
+      <YearStartedPerforming>2013</YearStartedPerforming>
+      <NetWorth/>
+      <YearOfBirth>1987</YearOfBirth>
+      <Albums>
+        <Album id="33">
+          <Title>Sugar</Title>
+          <ReleaseYear>2015</ReleaseYear>
+          <Price>$15.00</Price>
+        </Album>
+        <Album id="34">
+          <Title>Prayer</Title>
+          <ReleaseYear>2014</ReleaseYear>
+          <Price>$17.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+    <Artist id="19" type="DJ">
+      <Name>Steve Aoki</Name>
+      <Country>USA</Country>
+      <Genre>Electronic</Genre>
+      <YearStartedPerforming>1996</YearStartedPerforming>
+      <NetWorth>75,000,000</NetWorth>
+      <YearOfBirth/>
+      <Albums>
+        <Album id="35">
+          <Title>Wonderland</Title>
+          <ReleaseYear>2012</ReleaseYear>
+          <Price>$20.00</Price>
+        </Album>
+      </Albums>
+    </Artist>
+  </Artists>
+  <Clients>
+    <Client id="1">
+      <Name>Stephen</Name>
+      <Surname>Sims</Surname>
+      <Address/>
+      <Email>stephen.sims@example.com</Email>
+      <Phone>754-1234</Phone>
+      <Rentals>
+        <Rent id="2" returnState="functional">
+          <AlbumID>2</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/21/2020</ReturnDate>
+        </Rent>
+        <Rent id="6" returnState="functional">
+          <AlbumID>6</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="13" returnState="functional">
+          <AlbumID>13</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="26" returnState="functional">
+          <AlbumID>26</AlbumID>
+          <Date>01/16/2020</Date>
+          <ReturnDate>01/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="27" returnState="functional">
+          <AlbumID>27</AlbumID>
+          <Date>01/16/2020</Date>
+          <ReturnDate>01/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="41" returnState="functional">
+          <AlbumID>41</AlbumID>
+          <Date>01/13/2020</Date>
+          <ReturnDate>01/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="46" returnState="functional">
+          <AlbumID>46</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="71" returnState="functional">
+          <AlbumID>71</AlbumID>
+          <Date>01/17/2020</Date>
+          <ReturnDate>01/29/2020</ReturnDate>
+        </Rent>
+        <Rent id="117" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="128" returnState="functional">
+          <AlbumID>50</AlbumID>
+          <Date>02/12/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="157" returnState="functional">
+          <AlbumID>31</AlbumID>
+          <Date>03/01/2020</Date>
+          <ReturnDate>03/10/2020</ReturnDate>
+        </Rent>
+        <Rent id="164" returnState="functional">
+          <AlbumID>50</AlbumID>
+          <Date>03/05/2020</Date>
+          <ReturnDate>03/14/2020</ReturnDate>
+        </Rent>
+        <Rent id="189" returnState="functional">
+          <AlbumID>27</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="194" returnState="functional">
+          <AlbumID>35</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="211" returnState="functional">
+          <AlbumID>55</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="2">
+      <Name>Barney</Name>
+      <Surname>Stinson</Surname>
+      <Address/>
+      <Email>barney.stinson@example.com</Email>
+      <Phone>755-1111</Phone>
+      <Rentals>
+        <Rent id="15" returnState="functional">
+          <AlbumID>15</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="16" returnState="functional">
+          <AlbumID>16</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="43" returnState="functional">
+          <AlbumID>43</AlbumID>
+          <Date>01/14/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="80" returnState="functional">
+          <AlbumID>2</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/18/2020</ReturnDate>
+        </Rent>
+        <Rent id="172" returnState="damaged">
+          <AlbumID>21</AlbumID>
+          <Date>04/03/2020</Date>
+          <ReturnDate>04/14/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="3">
+      <Name>Walter</Name>
+      <Surname>White</Surname>
+      <Address/>
+      <Email>walter.white@example.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="18" returnState="functional">
+          <AlbumID>18</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="109" returnState="functional">
+          <AlbumID>31</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="210" returnState="functional">
+          <AlbumID>54</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="4">
+      <Name>Ned</Name>
+      <Surname>Stark</Surname>
+      <Address/>
+      <Email>ned.stark@starks.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="21" returnState="functional">
+          <AlbumID>21</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="25" returnState="functional">
+          <AlbumID>25</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/26/2020</ReturnDate>
+        </Rent>
+        <Rent id="37" returnState="functional">
+          <AlbumID>37</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="65" returnState="functional">
+          <AlbumID>65</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="112" returnState="functional">
+          <AlbumID>34</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="133" returnState="functional">
+          <AlbumID>55</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="163" returnState="functional">
+          <AlbumID>37</AlbumID>
+          <Date>03/02/2020</Date>
+          <ReturnDate>03/12/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="5">
+      <Name>John</Name>
+      <Surname>Snow</Surname>
+      <Address/>
+      <Email>john.snow@almoststark.com</Email>
+      <Phone>754-1112</Phone>
+      <Rentals>
+        <Rent id="44" returnState="functional">
+          <AlbumID>44</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="152" returnState="functional">
+          <AlbumID>74</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="214" returnState="functional">
+          <AlbumID>58</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="216" returnState="functional">
+          <AlbumID>60</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="220" returnState="functional">
+          <AlbumID>69</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="6">
+      <Name>Ross</Name>
+      <Surname>Geller</Surname>
+      <Address/>
+      <Email>ross.geller@friends.com</Email>
+      <Phone>755-1113</Phone>
+      <Rentals>
+        <Rent id="22" returnState="functional">
+          <AlbumID>22</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="24" returnState="functional">
+          <AlbumID>24</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="92" returnState="functional">
+          <AlbumID>14</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="141" returnState="functional">
+          <AlbumID>63</AlbumID>
+          <Date>02/15/2020</Date>
+          <ReturnDate>02/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="142" returnState="functional">
+          <AlbumID>64</AlbumID>
+          <Date>02/15/2020</Date>
+          <ReturnDate>02/26/2020</ReturnDate>
+        </Rent>
+        <Rent id="183" returnState="functional">
+          <AlbumID>11</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="190" returnState="functional">
+          <AlbumID>29</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="219" returnState="functional">
+          <AlbumID>68</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="7">
+      <Name>Thomas</Name>
+      <Surname>Shelby</Surname>
+      <Address/>
+      <Email>tommy.shelby@peaky.com</Email>
+      <Phone>755-2222</Phone>
+      <Phone>755-2223</Phone>
+      <Phone>755-1111</Phone>
+      <Rentals>
+        <Rent id="40" returnState="functional">
+          <AlbumID>40</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="59" returnState="functional">
+          <AlbumID>59</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="78" returnState="functional">
+          <AlbumID>78</AlbumID>
+          <Date>01/15/2020</Date>
+          <ReturnDate>01/30/2020</ReturnDate>
+        </Rent>
+        <Rent id="93" returnState="functional">
+          <AlbumID>15</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="95" returnState="functional">
+          <AlbumID>17</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="96" returnState="functional">
+          <AlbumID>18</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="100" returnState="functional">
+          <AlbumID>22</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="103" returnState="functional">
+          <AlbumID>25</AlbumID>
+          <Date>02/05/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="122" returnState="functional">
+          <AlbumID>44</AlbumID>
+          <Date>02/11/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="8">
+      <Name>Robb</Name>
+      <Surname>Stark</Surname>
+      <Address/>
+      <Email>robb-stark@starks.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="7" returnState="functional">
+          <AlbumID>7</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="30" returnState="functional">
+          <AlbumID>30</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="49" returnState="functional">
+          <AlbumID>49</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="106" returnState="functional">
+          <AlbumID>28</AlbumID>
+          <Date>02/06/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="193" returnState="functional">
+          <AlbumID>33</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="206" returnState="functional">
+          <AlbumID>49</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="9">
+      <Name>Joey</Name>
+      <Surname>Tribbiani</Surname>
+      <Address/>
+      <Email>joey.tribbiani@friends.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="51" returnState="functional">
+          <AlbumID>51</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="64" returnState="functional">
+          <AlbumID>64</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="139" returnState="functional">
+          <AlbumID>61</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="10">
+      <Name>Lucas</Name>
+      <Surname>Scott</Surname>
+      <Address/>
+      <Email>lucas.scott@onetreehill.com</Email>
+      <Phone>756-1111</Phone>
+      <Rentals>
+        <Rent id="31" returnState="functional">
+          <AlbumID>31</AlbumID>
+          <Date>01/11/2020</Date>
+          <ReturnDate>01/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="68" returnState="functional">
+          <AlbumID>68</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="105" returnState="functional">
+          <AlbumID>27</AlbumID>
+          <Date>02/06/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="118" returnState="functional">
+          <AlbumID>40</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="119" returnState="functional">
+          <AlbumID>41</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="123" returnState="functional">
+          <AlbumID>45</AlbumID>
+          <Date>02/11/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="132" returnState="functional">
+          <AlbumID>54</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="11">
+      <Name>Nathan</Name>
+      <Surname>Scott</Surname>
+      <Address/>
+      <Email>lucas.scott@onetreehill.com</Email>
+      <Phone>756-2222</Phone>
+      <Rentals>
+        <Rent id="32" returnState="functional">
+          <AlbumID>32</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="67" returnState="functional">
+          <AlbumID>67</AlbumID>
+          <Date>01/11/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="73" returnState="functional">
+          <AlbumID>73</AlbumID>
+          <Date>01/15/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="82" returnState="functional">
+          <AlbumID>4</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="124" returnState="functional">
+          <AlbumID>46</AlbumID>
+          <Date>02/11/2020</Date>
+          <ReturnDate>02/18/2020</ReturnDate>
+        </Rent>
+        <Rent id="177" returnState="damaged">
+          <AlbumID>76</AlbumID>
+          <Date>04/04/2020</Date>
+          <ReturnDate>04/11/2020</ReturnDate>
+        </Rent>
+        <Rent id="178" returnState="damaged">
+          <AlbumID>12</AlbumID>
+          <Date>04/04/2020</Date>
+          <ReturnDate>04/14/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="12">
+      <Name>Peyton</Name>
+      <Surname>Sawyer</Surname>
+      <Address/>
+      <Email>peyton_sawyer@onetreehill.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="20" returnState="functional">
+          <AlbumID>20</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="63" returnState="functional">
+          <AlbumID>63</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="83" returnState="functional">
+          <AlbumID>5</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="98" returnState="functional">
+          <AlbumID>20</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="110" returnState="functional">
+          <AlbumID>32</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="160" returnState="functional">
+          <AlbumID>34</AlbumID>
+          <Date>03/01/2020</Date>
+          <ReturnDate>03/08/2020</ReturnDate>
+        </Rent>
+        <Rent id="167" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>03/16/2020</Date>
+          <ReturnDate>03/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="169" returnState="damaged">
+          <AlbumID>3</AlbumID>
+          <Date>04/01/2020</Date>
+          <ReturnDate>04/13/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="13">
+      <Name>Julian</Name>
+      <Surname>Baker</Surname>
+      <Address/>
+      <Email>julian.baker@onetreehill.com</Email>
+      <Phone>756-3333</Phone>
+      <Phone>756-3334</Phone>
+      <Phone>756-3335</Phone>
+      <Rentals>
+        <Rent id="101" returnState="functional">
+          <AlbumID>23</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="146" returnState="functional">
+          <AlbumID>68</AlbumID>
+          <Date>02/16/2020</Date>
+          <ReturnDate>02/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="186" returnState="functional">
+          <AlbumID>24</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="195" returnState="functional">
+          <AlbumID>36</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="200" returnState="functional">
+          <AlbumID>41</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="14">
+      <Name>Eric</Name>
+      <Surname>Taylor</Surname>
+      <Address/>
+      <Email>eric.taylor@fnl.com</Email>
+      <Phone>757-1111</Phone>
+      <Rentals>
+        <Rent id="66" returnState="functional">
+          <AlbumID>66</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="91" returnState="functional">
+          <AlbumID>13</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/14/2020</ReturnDate>
+        </Rent>
+        <Rent id="136" returnState="functional">
+          <AlbumID>58</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="148" returnState="functional">
+          <AlbumID>70</AlbumID>
+          <Date>02/17/2020</Date>
+          <ReturnDate>02/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="162" returnState="functional">
+          <AlbumID>36</AlbumID>
+          <Date>03/02/2020</Date>
+          <ReturnDate>03/16/2020</ReturnDate>
+        </Rent>
+        <Rent id="168" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>03/23/2020</Date>
+          <ReturnDate>03/29/2020</ReturnDate>
+        </Rent>
+        <Rent id="174" returnState="damaged">
+          <AlbumID>44</AlbumID>
+          <Date>04/03/2020</Date>
+          <ReturnDate>04/11/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="15">
+      <Name>Julie</Name>
+      <Surname>Taylor</Surname>
+      <Address/>
+      <Email>julie.taylor@fnl.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="4" returnState="functional">
+          <AlbumID>4</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="72" returnState="functional">
+          <AlbumID>72</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="74" returnState="functional">
+          <AlbumID>74</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="88" returnState="functional">
+          <AlbumID>10</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/11/2020</ReturnDate>
+        </Rent>
+        <Rent id="150" returnState="functional">
+          <AlbumID>72</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="154" returnState="functional">
+          <AlbumID>76</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="179" returnState="functional">
+          <AlbumID>2</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="203" returnState="functional">
+          <AlbumID>46</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="209" returnState="functional">
+          <AlbumID>53</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="16">
+      <Name>Jason</Name>
+      <Surname>Street</Surname>
+      <Address/>
+      <Email>jason-street@fnl.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="3" returnState="functional">
+          <AlbumID>3</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="69" returnState="functional">
+          <AlbumID>69</AlbumID>
+          <Date>01/15/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="107" returnState="functional">
+          <AlbumID>29</AlbumID>
+          <Date>02/06/2020</Date>
+          <ReturnDate>02/18/2020</ReturnDate>
+        </Rent>
+        <Rent id="130" returnState="functional">
+          <AlbumID>52</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/21/2020</ReturnDate>
+        </Rent>
+        <Rent id="134" returnState="functional">
+          <AlbumID>56</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="135" returnState="functional">
+          <AlbumID>57</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="158" returnState="functional">
+          <AlbumID>32</AlbumID>
+          <Date>03/01/2020</Date>
+          <ReturnDate>03/09/2020</ReturnDate>
+        </Rent>
+        <Rent id="166" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>03/05/2020</Date>
+          <ReturnDate>03/14/2020</ReturnDate>
+        </Rent>
+        <Rent id="185" returnState="functional">
+          <AlbumID>23</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="202" returnState="functional">
+          <AlbumID>45</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="17">
+      <Name>Matt</Name>
+      <Surname>Saracen</Surname>
+      <Address/>
+      <Email>matt_saracen@fnl.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="19" returnState="functional">
+          <AlbumID>19</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="57" returnState="functional">
+          <AlbumID>57</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="77" returnState="functional">
+          <AlbumID>77</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="102" returnState="functional">
+          <AlbumID>24</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="156" returnState="functional">
+          <AlbumID>78</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/26/2020</ReturnDate>
+        </Rent>
+        <Rent id="176" returnState="damaged">
+          <AlbumID>63</AlbumID>
+          <Date>04/04/2020</Date>
+          <ReturnDate>04/13/2020</ReturnDate>
+        </Rent>
+        <Rent id="212" returnState="functional">
+          <AlbumID>56</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="18">
+      <Name>Tim</Name>
+      <Surname>Riggins</Surname>
+      <Address>Eight St 3</Address>
+      <Email>tim_riggins@fnl.com</Email>
+      <Phone>756-2222</Phone>
+      <Rentals>
+        <Rent id="23" returnState="functional">
+          <AlbumID>23</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="47" returnState="functional">
+          <AlbumID>47</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="53" returnState="functional">
+          <AlbumID>53</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="61" returnState="functional">
+          <AlbumID>61</AlbumID>
+          <Date>01/18/2020</Date>
+          <ReturnDate>01/26/2020</ReturnDate>
+        </Rent>
+        <Rent id="191" returnState="functional">
+          <AlbumID>30</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="196" returnState="functional">
+          <AlbumID>37</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="223" returnState="functional">
+          <AlbumID>78</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="19">
+      <Name>James</Name>
+      <Surname>McGill</Surname>
+      <Address/>
+      <Email>james_mcgill@bcs.com</Email>
+      <Phone>756-3333</Phone>
+      <Rentals>
+        <Rent id="11" returnState="functional">
+          <AlbumID>11</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="84" returnState="functional">
+          <AlbumID>6</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/18/2020</ReturnDate>
+        </Rent>
+        <Rent id="116" returnState="functional">
+          <AlbumID>38</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="131" returnState="functional">
+          <AlbumID>53</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="165" returnState="functional">
+          <AlbumID>38</AlbumID>
+          <Date>03/03/2020</Date>
+          <ReturnDate>03/13/2020</ReturnDate>
+        </Rent>
+        <Rent id="182" returnState="functional">
+          <AlbumID>9</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="215" returnState="functional">
+          <AlbumID>59</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="20">
+      <Name>Kimberly</Name>
+      <Surname>Wexler</Surname>
+      <Address/>
+      <Email>kim_wexler@bcs.com</Email>
+      <Phone>756-4444</Phone>
+      <Rentals>
+        <Rent id="38" returnState="functional">
+          <AlbumID>38</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="58" returnState="functional">
+          <AlbumID>58</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="97" returnState="functional">
+          <AlbumID>19</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="111" returnState="functional">
+          <AlbumID>33</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="113" returnState="functional">
+          <AlbumID>35</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="121" returnState="functional">
+          <AlbumID>43</AlbumID>
+          <Date>02/09/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="127" returnState="functional">
+          <AlbumID>49</AlbumID>
+          <Date>02/12/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="171" returnState="damaged">
+          <AlbumID>20</AlbumID>
+          <Date>04/02/2020</Date>
+          <ReturnDate>04/10/2020</ReturnDate>
+        </Rent>
+        <Rent id="204" returnState="functional">
+          <AlbumID>47</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="21">
+      <Name>Ryan</Name>
+      <Surname>Atwood</Surname>
+      <Address/>
+      <Email>ryan_atwood@toc.com</Email>
+      <Phone>756-5555</Phone>
+      <Rentals>
+        <Rent id="34" returnState="functional">
+          <AlbumID>34</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="143" returnState="functional">
+          <AlbumID>65</AlbumID>
+          <Date>02/15/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="147" returnState="functional">
+          <AlbumID>69</AlbumID>
+          <Date>02/17/2020</Date>
+          <ReturnDate>02/22/2020</ReturnDate>
+        </Rent>
+        <Rent id="151" returnState="functional">
+          <AlbumID>73</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="22">
+      <Name>Seth</Name>
+      <Surname>Cohen</Surname>
+      <Address/>
+      <Email>seth_cohen@toc.com</Email>
+      <Phone>756-6666</Phone>
+      <Rentals>
+        <Rent id="99" returnState="functional">
+          <AlbumID>21</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="145" returnState="functional">
+          <AlbumID>67</AlbumID>
+          <Date>02/16/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="175" returnState="damaged">
+          <AlbumID>52</AlbumID>
+          <Date>04/03/2020</Date>
+          <ReturnDate>04/12/2020</ReturnDate>
+        </Rent>
+        <Rent id="205" returnState="functional">
+          <AlbumID>48</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="221" returnState="functional">
+          <AlbumID>75</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="23">
+      <Name>Marissa</Name>
+      <Surname>Cooper</Surname>
+      <Address/>
+      <Email>marissa_cooper@toc.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="33" returnState="functional">
+          <AlbumID>33</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="94" returnState="functional">
+          <AlbumID>16</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/21/2020</ReturnDate>
+        </Rent>
+        <Rent id="180" returnState="functional">
+          <AlbumID>6</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="188" returnState="functional">
+          <AlbumID>26</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="207" returnState="functional">
+          <AlbumID>50</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="218" returnState="functional">
+          <AlbumID>66</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="24">
+      <Name>Summer</Name>
+      <Surname>Roberts</Surname>
+      <Address/>
+      <Email>summer_roberts@toc.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="1" returnState="functional">
+          <AlbumID>1</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="8" returnState="functional">
+          <AlbumID>8</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/28/2020</ReturnDate>
+        </Rent>
+        <Rent id="14" returnState="functional">
+          <AlbumID>14</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="54" returnState="functional">
+          <AlbumID>54</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="60" returnState="functional">
+          <AlbumID>60</AlbumID>
+          <Date>01/15/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="104" returnState="functional">
+          <AlbumID>26</AlbumID>
+          <Date>02/05/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="115" returnState="functional">
+          <AlbumID>37</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="144" returnState="functional">
+          <AlbumID>66</AlbumID>
+          <Date>02/15/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="25">
+      <Name>Sandy</Name>
+      <Surname>Cohen</Surname>
+      <Address/>
+      <Email>sandy_cohen@toc.com</Email>
+      <Phone>756-7777</Phone>
+      <Rentals>
+        <Rent id="52" returnState="functional">
+          <AlbumID>52</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="108" returnState="functional">
+          <AlbumID>30</AlbumID>
+          <Date>02/06/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="114" returnState="functional">
+          <AlbumID>36</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="125" returnState="functional">
+          <AlbumID>47</AlbumID>
+          <Date>02/11/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="155" returnState="functional">
+          <AlbumID>77</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="197" returnState="functional">
+          <AlbumID>38</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="213" returnState="functional">
+          <AlbumID>57</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="26">
+      <Name>Kirsten</Name>
+      <Surname>Cohen</Surname>
+      <Address/>
+      <Email>kirsten_cohen@toc.com</Email>
+      <Phone>756-8888</Phone>
+      <Rentals>
+        <Rent id="126" returnState="functional">
+          <AlbumID>48</AlbumID>
+          <Date>02/12/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="27">
+      <Name>Jake</Name>
+      <Surname>Peralta</Surname>
+      <Address/>
+      <Email>jake_peralta@bnn.com</Email>
+      <Phone>757-1111</Phone>
+      <Rentals>
+        <Rent id="5" returnState="functional">
+          <AlbumID>5</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="70" returnState="functional">
+          <AlbumID>70</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="153" returnState="functional">
+          <AlbumID>75</AlbumID>
+          <Date>02/18/2020</Date>
+          <ReturnDate>02/23/2020</ReturnDate>
+        </Rent>
+        <Rent id="170" returnState="damaged">
+          <AlbumID>19</AlbumID>
+          <Date>04/01/2020</Date>
+          <ReturnDate>04/12/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="28">
+      <Name>Rosa</Name>
+      <Surname>Diaz</Surname>
+      <Address/>
+      <Email>rosa_diaz@bnn.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="28" returnState="functional">
+          <AlbumID>28</AlbumID>
+          <Date>01/14/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="42" returnState="functional">
+          <AlbumID>42</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="85" returnState="functional">
+          <AlbumID>7</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="138" returnState="functional">
+          <AlbumID>60</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="199" returnState="functional">
+          <AlbumID>40</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="29">
+      <Name>Amy</Name>
+      <Surname>Santiago</Surname>
+      <Address/>
+      <Email>amy_santiago@bnn.com</Email>
+      <Phone>757-2222</Phone>
+      <Rentals>
+        <Rent id="12" returnState="functional">
+          <AlbumID>12</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="79" returnState="functional">
+          <AlbumID>1</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="198" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="208" returnState="functional">
+          <AlbumID>51</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="222" returnState="functional">
+          <AlbumID>77</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="30">
+      <Name>Charles</Name>
+      <Surname>Boyke</Surname>
+      <Address/>
+      <Email>charles_boyle@bnn.com</Email>
+      <Phone>757-3333</Phone>
+      <Rentals>
+        <Rent id="29" returnState="functional">
+          <AlbumID>29</AlbumID>
+          <Date>01/12/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="36" returnState="functional">
+          <AlbumID>36</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="39" returnState="functional">
+          <AlbumID>39</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="75" returnState="functional">
+          <AlbumID>75</AlbumID>
+          <Date>01/20/2020</Date>
+          <ReturnDate>01/27/2020</ReturnDate>
+        </Rent>
+        <Rent id="81" returnState="functional">
+          <AlbumID>3</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="140" returnState="functional">
+          <AlbumID>62</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="187" returnState="functional">
+          <AlbumID>25</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="201" returnState="functional">
+          <AlbumID>42</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="31">
+      <Name>Terry</Name>
+      <Surname>Jeffords</Surname>
+      <Address/>
+      <Email>t.jeffords@bnn.com</Email>
+      <Phone>757-4444</Phone>
+      <Rentals>
+        <Rent id="50" returnState="functional">
+          <AlbumID>50</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="89" returnState="functional">
+          <AlbumID>11</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/18/2020</ReturnDate>
+        </Rent>
+        <Rent id="120" returnState="functional">
+          <AlbumID>42</AlbumID>
+          <Date>02/07/2020</Date>
+          <ReturnDate>02/17/2020</ReturnDate>
+        </Rent>
+        <Rent id="217" returnState="functional">
+          <AlbumID>64</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="32">
+      <Name>Daenerys</Name>
+      <Surname>Targaryen</Surname>
+      <Address>Eleventh St 
+                1
+            </Address>
+      <Email>daenerys-stormborn@targaryen.com</Email>
+      <Phone>757-5555</Phone>
+      <Phone>757-6666</Phone>
+      <Phone>757-7777</Phone>
+      <Rentals>
+        <Rent id="10" returnState="functional">
+          <AlbumID>10</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="35" returnState="functional">
+          <AlbumID>35</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="48" returnState="functional">
+          <AlbumID>48</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="76" returnState="functional">
+          <AlbumID>76</AlbumID>
+          <Date>01/19/2020</Date>
+          <ReturnDate>01/25/2020</ReturnDate>
+        </Rent>
+        <Rent id="90" returnState="functional">
+          <AlbumID>12</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/12/2020</ReturnDate>
+        </Rent>
+        <Rent id="129" returnState="functional">
+          <AlbumID>51</AlbumID>
+          <Date>02/12/2020</Date>
+          <ReturnDate>02/21/2020</ReturnDate>
+        </Rent>
+        <Rent id="149" returnState="functional">
+          <AlbumID>71</AlbumID>
+          <Date>02/17/2020</Date>
+          <ReturnDate>02/24/2020</ReturnDate>
+        </Rent>
+        <Rent id="159" returnState="functional">
+          <AlbumID>33</AlbumID>
+          <Date>03/01/2020</Date>
+          <ReturnDate>03/11/2020</ReturnDate>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="33">
+      <Name>Tyrion</Name>
+      <Surname>Lannister</Surname>
+      <Address/>
+      <Email>the_imp@lannister.com</Email>
+      <Phone>757-8888</Phone>
+      <Rentals>
+        <Rent id="45" returnState="functional">
+          <AlbumID>45</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="56" returnState="functional">
+          <AlbumID>56</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="87" returnState="functional">
+          <AlbumID>9</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="161" returnState="functional">
+          <AlbumID>35</AlbumID>
+          <Date>03/02/2020</Date>
+          <ReturnDate>03/07/2020</ReturnDate>
+        </Rent>
+        <Rent id="181" returnState="functional">
+          <AlbumID>7</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+        <Rent id="192" returnState="functional">
+          <AlbumID>32</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+    <Client id="34">
+      <Name>Jon</Name>
+      <Surname>Arryn</Surname>
+      <Address/>
+      <Email>jon-of-the-eyrie@arryn.com</Email>
+      <Phone/>
+      <Rentals>
+        <Rent id="9" returnState="functional">
+          <AlbumID>9</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>02/05/2020</ReturnDate>
+        </Rent>
+        <Rent id="17" returnState="functional">
+          <AlbumID>17</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="55" returnState="functional">
+          <AlbumID>55</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="62" returnState="functional">
+          <AlbumID>62</AlbumID>
+          <Date>01/10/2020</Date>
+          <ReturnDate>01/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="86" returnState="functional">
+          <AlbumID>8</AlbumID>
+          <Date>02/04/2020</Date>
+          <ReturnDate>02/20/2020</ReturnDate>
+        </Rent>
+        <Rent id="137" returnState="functional">
+          <AlbumID>59</AlbumID>
+          <Date>02/13/2020</Date>
+          <ReturnDate>02/19/2020</ReturnDate>
+        </Rent>
+        <Rent id="173" returnState="damaged">
+          <AlbumID>43</AlbumID>
+          <Date>04/03/2020</Date>
+          <ReturnDate>04/10/2020</ReturnDate>
+        </Rent>
+        <Rent id="184" returnState="functional">
+          <AlbumID>22</AlbumID>
+          <Date>04/13/2020</Date>
+          <ReturnDate/>
+        </Rent>
+      </Rentals>
+    </Client>
+  </Clients>
+  <CatalogCD>
+    <CD id="1" occupied="0">
+      <AlbumID>1</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="2" occupied="1">
+      <AlbumID>1</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="3" occupied="0">
+      <AlbumID>1</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="4" occupied="0">
+      <AlbumID>2</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="5" occupied="0">
+      <AlbumID>2</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="6" occupied="1">
+      <AlbumID>2</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="7" occupied="1">
+      <AlbumID>2</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="8" occupied="0">
+      <AlbumID>3</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="9" occupied="1">
+      <AlbumID>3</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="10" occupied="0">
+      <AlbumID>4</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="11" occupied="1">
+      <AlbumID>4</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="12" occupied="0">
+      <AlbumID>4</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="13" occupied="0">
+      <AlbumID>5</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="14" occupied="0">
+      <AlbumID>5</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="15" occupied="0">
+      <AlbumID>5</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="16" occupied="0">
+      <AlbumID>6</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="17" occupied="0">
+      <AlbumID>6</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="18" occupied="0">
+      <AlbumID>6</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="19" occupied="0">
+      <AlbumID>7</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="20" occupied="0">
+      <AlbumID>7</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="21" occupied="0">
+      <AlbumID>7</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="22" occupied="1">
+      <AlbumID>8</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="23" occupied="1">
+      <AlbumID>8</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="24" occupied="1">
+      <AlbumID>9</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="25" occupied="1">
+      <AlbumID>9</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="26" occupied="1">
+      <AlbumID>9</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="27" occupied="1">
+      <AlbumID>9</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="28" occupied="0">
+      <AlbumID>10</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="29" occupied="1">
+      <AlbumID>10</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="30" occupied="1">
+      <AlbumID>11</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="31" occupied="0">
+      <AlbumID>11</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="32" occupied="1">
+      <AlbumID>12</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="33" occupied="1">
+      <AlbumID>12</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="34" occupied="0">
+      <AlbumID>12</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="35" occupied="1">
+      <AlbumID>12</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="36" occupied="1">
+      <AlbumID>13</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="37" occupied="1">
+      <AlbumID>13</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="38" occupied="1">
+      <AlbumID>13</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="39" occupied="1">
+      <AlbumID>13</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="40" occupied="1">
+      <AlbumID>14</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="41" occupied="0">
+      <AlbumID>14</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="42" occupied="1">
+      <AlbumID>15</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="43" occupied="0">
+      <AlbumID>16</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="44" occupied="0">
+      <AlbumID>16</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="45" occupied="1">
+      <AlbumID>17</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="46" occupied="1">
+      <AlbumID>17</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="47" occupied="1">
+      <AlbumID>17</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="48" occupied="1">
+      <AlbumID>18</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="49" occupied="1">
+      <AlbumID>18</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="50" occupied="1">
+      <AlbumID>19</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="51" occupied="1">
+      <AlbumID>19</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="52" occupied="0">
+      <AlbumID>20</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="53" occupied="1">
+      <AlbumID>20</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="54" occupied="1">
+      <AlbumID>20</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="55" occupied="1">
+      <AlbumID>21</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="56" occupied="1">
+      <AlbumID>21</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="57" occupied="1">
+      <AlbumID>22</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="58" occupied="1">
+      <AlbumID>23</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="59" occupied="1">
+      <AlbumID>23</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="60" occupied="1">
+      <AlbumID>24</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="61" occupied="0">
+      <AlbumID>24</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="62" occupied="0">
+      <AlbumID>25</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="63" occupied="0">
+      <AlbumID>26</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="64" occupied="1">
+      <AlbumID>27</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="65" occupied="0">
+      <AlbumID>28</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="66" occupied="1">
+      <AlbumID>29</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="67" occupied="0">
+      <AlbumID>30</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="68" occupied="1">
+      <AlbumID>31</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="69" occupied="1">
+      <AlbumID>32</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="70" occupied="0">
+      <AlbumID>32</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="71" occupied="0">
+      <AlbumID>33</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="72" occupied="0">
+      <AlbumID>33</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="73" occupied="0">
+      <AlbumID>34</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="74" occupied="0">
+      <AlbumID>35</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="75" occupied="1">
+      <AlbumID>30</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="76" occupied="0">
+      <AlbumID>31</AlbumID>
+      <State>damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="77" occupied="1">
+      <AlbumID>34</AlbumID>
+      <State>slightly damaged</State>
+      <Stock>1</Stock>
+    </CD>
+    <CD id="78" occupied="1">
+      <AlbumID>35</AlbumID>
+      <State>functional</State>
+      <Stock>1</Stock>
+    </CD>
+  </CatalogCD>
+</System>
